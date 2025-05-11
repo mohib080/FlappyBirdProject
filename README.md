@@ -25,5 +25,5 @@ A simple Flappy Bird clone created using the **iGraphics** library in C.
 3. Build and run the project.
 
 ## Credits
-Created by Mohibul Sawrav
-UnderGrad Student at CSE,BUET
+-Created by Mohibul Sawrav
+-UnderGrad Student at CSE,BUET
