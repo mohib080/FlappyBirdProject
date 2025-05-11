@@ -1,5 +1,5 @@
 # Flappy Bird Clone
-![Alt text](image/Home.bmp)
+![Alt text](https://wallpapercave.com/wp/wp6956919.jpg)
 
 
 A simple Flappy Bird clone created using the **iGraphics** library in C.
