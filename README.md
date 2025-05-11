@@ -1,5 +1,5 @@
 # Flappy Bird Clone
-![Alt text](images/Home.bmp)
+![Alt text](image/Home.bmp)
 
 
 A simple Flappy Bird clone created using the **iGraphics** library in C.
